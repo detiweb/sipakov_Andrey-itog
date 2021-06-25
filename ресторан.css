@@ -1,0 +1,32 @@
+a{
+	font-size: 30px;
+}
+.img2{
+	width: 300px;
+	height: 300px;
+}
+body{
+	background: url(фон2.png);
+	border: 3px solid blue;
+	border-radius: 3px;
+}
+.img4{
+	width: 311px;
+	height: 450px;
+}
+p{
+	color: blue;
+}
+div{
+	background-color:pink ;
+	padding: 10px;
+}
+h1{
+	text-align: center;
+}
+.img11{
+	width: 311px;
+	height: 450px;
+}
+
+
